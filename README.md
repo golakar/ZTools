@@ -1,7 +1,7 @@
 # ZeroFlix Tools 
 Private stream script for videos from Google photos, Drive and any kind of direct link by encrypted player.<br>
 <hr>
-### Features:
+## Features:
 <ul>
   <li>Multi user Login System without database<br></li>
   <li>Use Google Drive Videos<br></li>
@@ -15,8 +15,8 @@ Private stream script for videos from Google photos, Drive and any kind of direc
   </ul>
   
 <hr>
-### Demo:
-Live Demo: [https://zerotools.herokuapp.com/](https://zerotools.herokuapp.com/)
+## Demo:
+Live Demo: <a target="_blank" href="https://zerotools.herokuapp.com">ZeroTools</a>
 
 <hr>
 ## Usage
