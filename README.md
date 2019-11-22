@@ -4,8 +4,7 @@ Private stream script for videos from Google photos, Drive and any kind of direc
 ## Features:<br>
 <ul>
   <li>Multi user Login System without database<br></li>
-  <li>Use Google Drive Videos<br></li>
-  <li>Use Google Drive Videos<br></li>
+  <li>Use Google Drive Videos<br></li>  
   <li>Videos from Google Photos<br></li>
   <li>Any kind of direct video link by encrypted player with iframe/embed.<br></li>
   <li>Download Video from Facebook directly or you can also stream by encrypted player<br></li>
