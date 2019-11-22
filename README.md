@@ -14,7 +14,7 @@ Private stream script for videos from Google photos, Drive and any kind of direc
   </ul>  
 
 ## Demo :<br>
-Live Demo: <a target="_blank" href="https://zerotools.herokuapp.com">ZeroTools</a>
+Live Demo: <a href="https://zerotools.herokuapp.com" target="_blank">ZeroTools</a>
 
 ## Usage :<br>
 More Details is coming soon.
@@ -24,5 +24,7 @@ More Details is coming soon.
 * Bitcoin Cash: qqtkwdmh8anqmar8xacmpt904k8rtj6kaycr3xak87 <br>
 * Ether: 0x26c3b5166e264722df07e3fea970493472ed6b4f
 
-## License :<br>
-This project is licensed under the MIT License - see the (LICENSE) file for details
+## NB : <br>
+Source code is not available to use public. But service is free without any further notice.
+
+## To More- Contact with Us:
